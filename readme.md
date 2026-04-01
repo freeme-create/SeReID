@@ -5,5 +5,5 @@ This code is based on an early version of [mikwieczorek/centroids-reid](https://
 
 ## Demonstration
 
-[comment]:<img src="https://raw.githubusercontent.com/freeme-create/MMBNNet/blob/main/WholeModel.png" width="623" height="300">
-<img src="https://github.com/freeme-create/MMBNNet-for-Person-ReID/blob/main/WholeModel.png" width="823" height="400">
+[comment]:<img src="https://raw.githubusercontent.com/freeme-create/SeReID/edit/main/model_whole_v2.png" width="623" height="300">
+<img src="https://github.com/freeme-create/SeReID/blob/main/model_whole_v2.png" width="823" height="400">
